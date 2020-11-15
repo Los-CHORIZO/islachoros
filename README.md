@@ -1,2 +1,2 @@
 # islachoros
-Proyecto para la empresa de tours de en Punta de Choros
+Proyecto para la empresa de tours en Punta de Choros
